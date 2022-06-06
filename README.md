@@ -1,8 +1,8 @@
-## Plareem ERP
+## Plareem
 Plareem code, package and apps customized, maintained and/or developed by 
 Plareem and its team of Developers
 
-## Plareem ERP License
+## Plareem License
 MIT Plareem
 
 <!---
